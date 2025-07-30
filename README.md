@@ -1,4 +1,4 @@
-# MERN Stack Project: A Real Time Chat App | JWT, Socket.io
+# MERN Stack Chat App Project: A Real Time Chat App | JWT, Socket.io
 
 ### Setup .env file
 
